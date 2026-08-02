@@ -90,7 +90,7 @@ Se implementó un algoritmo de **Árbol de Decisión** para la clasificación de
 
 | Archivo | Descripción |
 |---------|-------------|
-| **MaintenIA_Arbol_Decision.ipynb** | Notebook principal del proyecto |
+| | **MantenimientoIA_Arbol_Decision.ipynb** | Notebook principal del proyecto |
 | **ai4i2020.csv** | Dataset original |
 | **ai4i2020_depurado.csv** | Dataset depurado |
 | **ai4i2020_codificado.csv** | Dataset preparado para el entrenamiento |
